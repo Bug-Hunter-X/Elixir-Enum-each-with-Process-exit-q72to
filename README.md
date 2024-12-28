@@ -1,0 +1,1 @@
+This repository demonstrates a subtle but impactful error when using `Enum.each` with `Process.exit` in Elixir.  The code within `bug.ex` shows the incorrect usage, leading to unexpected process termination.  `bugSolution.ex` provides a corrected approach using a more appropriate pattern for handling such scenarios.
